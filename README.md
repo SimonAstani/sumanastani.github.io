@@ -1,2 +1,1 @@
-# sumanastani.github.io
-personal site
+v1 initial customized
